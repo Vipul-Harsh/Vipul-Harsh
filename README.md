@@ -22,7 +22,7 @@
 ⚡ Fun fact **I love to sketch and paint** in my free time
 </div>
 
-<h2 align="center">⚒️ Languages-Tools ⚒️</h2>
+<h2 align="center">⚒️ Technical Skills ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,cpp,c,vscode,mongodb,react,nodejs,express,mysql,github" />
