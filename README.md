@@ -57,12 +57,11 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
 
-<a align="center">
+
 
 [![Vipul's Github stats](https://github-readme-stats.vercel.app/api?username=Vipul-Harsh&show=reviews,prs_merged&theme=ambient_gradient&rank_icon=github&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vipul-Harsh&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-</a>
 
 </div>
