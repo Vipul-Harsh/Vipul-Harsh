@@ -54,6 +54,7 @@
 Vipul-Harsh/Vipul-Harsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
 
 <a align="center">
