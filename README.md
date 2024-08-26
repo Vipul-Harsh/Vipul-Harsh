@@ -45,7 +45,7 @@
   
  **Frameworks/Libraries:** React JS, Node JS , Express JS , MongoDB 
   
- **Core Competencies:** Communication, Decision Making, Self-Learning, Analysis, Teamwork, Observation
+ **Core Competencies:** Communication, Decision Making, Public Speaking, Teamwork, Focused
  </div>
 </div>
 
