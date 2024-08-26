@@ -10,13 +10,15 @@
 <br/>
 
 <div align="center">
- 👋 Hi, I’m @Vipul-Harsh
- 👀 I’m interested in Web Development and Programming and wanted to explore the world of Ai
- 🌱 I’m currently doing Problem solving and DSA with java specifically and have hands on expirence with MERN stack development
- 💞️ I’m looking to collaborate on with industry level projects
- 📫 How to reach me https://www.linkedin.com/in/vipul-harsh-b8722322a/
- 😄 Pronouns: he/him
- ⚡ Fun fact: I love Painting and sketching
+ 🔭 I’m currently working on my **programming skills** and few **Projects**
+ 
+ 🌱 I’m currently learning **DSA, Python, MySql, AI and ML**
+
+💬 Ask me about anything related to **Projects and Programming**
+
+😄 Pronouns: She/Her
+
+⚡ Fun fact **I love to sketch, Read and write** in my free time
 </div>
 
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
