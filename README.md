@@ -10,15 +10,16 @@
 <br/>
 
 <div align="center">
- 🔭 I’m currently working on my **programming skills** and few **Projects**
+    
+ 🔭 I’m currently working on my **programming skills** and  **Projects**
  
- 🌱 I’m currently learning **DSA, Python, MySql, AI and ML**
+ 🌱 I’m currently learning **DSA, Java, MERN Stack, Database and Management**
 
 💬 Ask me about anything related to **Projects and Programming**
 
-😄 Pronouns: She/Her
+😄 Pronouns: He/Him
 
-⚡ Fun fact **I love to sketch, Read and write** in my free time
+⚡ Fun fact **I love to sketch and paint** in my free time
 </div>
 
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
