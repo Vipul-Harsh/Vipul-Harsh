@@ -11,16 +11,6 @@ Vipul-Harsh/Vipul-Harsh is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Vipul Harsh stats](https://github-readme-stats.vercel.app/api?username=Vipul-Harsh&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Vipul-Harsh&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vipul-Harsh&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Vipul's Github stats](https://github-readme-stats.vercel.app/api?username=Vipul-Harsh&show=reviews,prs_merged&theme=ambient_gradient&rank_icon=github&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
