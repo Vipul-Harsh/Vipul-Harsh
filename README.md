@@ -22,7 +22,7 @@
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,cpp,c,vscode,mongodb,reactjs,nodejs,express,mysql,github" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,c,vscode,mongodb,Reactjs,nodejs,express,mysql,github" />
     <img src="https://skillicons.dev/icons?i=html,css,linux <div align="center">
     
 </div>
