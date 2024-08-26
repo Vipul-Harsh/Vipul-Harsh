@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vipul+Harsh!;" />
 </h1>
 
-<h3 align="center">"I am a Web Developer from India currently honing my skills in data structures & algorithms."</h3>
+<h3 align="center">"A passionate Web Developer from India, currently perfecting my skills in Data Structures & Algorithms."</h3>
 
 <br/>
 
@@ -25,7 +25,7 @@
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,cpp,c,vscode,mongodb,nodejs,express,mysql,github" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,c,vscode,mongodb,react,nodejs,express,mysql,github" />
     <img src="https://skillicons.dev/icons?i=html,css,linux <div align="center">
     
 </div>
@@ -41,7 +41,7 @@
     
  **Major Coursework:** Data Structures and Algorithms(DSA), Object-Oriented Programming(OOP), Database Management Systems(DBMS), Computer Networks(CN), Operating Systems(OS), Software Engineering(SE)
 
- **Developer Tools:** GitHub, Jupyter, VS Code, MySQL workbench, DataBricks, Linux
+ **Developer Tools:** GitHub,Vercel, VS Code, MySQL workbench, Linux
   
  **Frameworks/Libraries:** React JS, Node JS , Express JS , MongoDB 
   
